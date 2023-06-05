@@ -1,4 +1,4 @@
-# Popular design patterns in test automation
+# [Popular design patterns in test automation](https://www.browserstack.com/guide/design-patterns-in-automation-framework)
 
 * Page Object Model Pattern
     * Page Object Model design pattern enhances test maintenance, reduces code duplication, and increases code readability and reusability. It is an object-oriented class that serves as an interface to a page of the Application Under Test (AUT). Page objects encapsulate web elements, or other class members and provide access to wrapper methods that hide all the logic.
